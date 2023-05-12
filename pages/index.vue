@@ -69,7 +69,6 @@
                     </div>
                 </footer>
             </div>
-            <!-- <p>zamn</p> -->
         </div>
 
     </body>
