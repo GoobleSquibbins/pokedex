@@ -103,7 +103,7 @@
                         <br>
                         <li>
                             <h1 class="text-[15px] font-medium underline">Audio</h1>
-                            <div class="moretext flex flex-row-reverse items-center">
+                            <div class="moretext flex flex-row-reverse items-start">
                                 <img class="h-[100px] ml-[10px] shadow-xl" src="https://quantumshifting.files.wordpress.com/2012/08/red-pill-blue-pill.jpg" alt="">
                                 <p class="indent-10">
                                     We've reached the point of no return and you now need to make a choice. You take the blue pill, remain
@@ -128,9 +128,11 @@
                             these issues until they were drastically improved in you guessed it.
                         </p>
                         <div class="flex items-center">
+                            <img class="h-[170px] m-[10px]" src="https://thumbs.gfycat.com/BronzeUnripeBlackrussianterrier.webp" alt="">
                             <img class="h-[170px] m-[10px]" src="https://media.tenor.com/F1gWP60UTpYAAAAS/fortnite-meme.gif" alt="">
                             <h1 class="text-[50px]">F O R T N I T E</h1>
                             <img class="h-[170px] m-[10px]" src="https://media.tenor.com/dEjdaRZExUQAAAAd/fortnite-dance.gif" alt="">
+                            <img class="h-[170px] m-[10px]" src="https://gifdb.com/images/high/fortnite-battle-royale-lore-explaining-meme-gwiejik8rftmq5wd.webp" alt="">
                         </div>
                         <!-- ddd -->
                         </div>
