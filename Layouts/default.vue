@@ -22,7 +22,7 @@
         </div>
 
         <div>
-            <slot />
+            <slot></slot>
         </div>
 
         <footer class="ml-[150px] text-center text-slate-50 font-medium mt-full">
