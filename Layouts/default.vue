@@ -1,6 +1,7 @@
 <template>
     <div>
-        <nav class="nav bg-[#152856] w-[150px] text-white h-[100vh] flex flex-col items-center fixed">
+        <div>
+            <nav class="nav bg-[#152856] w-[150px] text-white h-[100vh] flex flex-col items-center fixed ">
                 <ul class="w-full p-0 m-0 flex flex-col items-center h-full list-none">
                     <li class="text-[30px] font-medium p-[10px]">日曜日</li>
                     <li
@@ -18,16 +19,17 @@
                         Setting</li>
                 </ul>
             </nav>
-    </div>
+        </div>
 
-    <div>
-        <slot />
-    </div>
+        <div>
+            <slot />
+        </div>
 
-    <div>
         <footer class="ml-[150px] text-center text-slate-50 font-medium mt-full">
             <div class="footer p-1 bg-[#162444]">
-                Copyright 2023 © Ananda Arsya Sabili
+                <p>
+                   Copyright 2023 © Ananda Arsya Sabili 
+                </p>
             </div>
         </footer>
     </div>

@@ -1,103 +1,176 @@
 <template>
     <div>
-        <div class="bruhtext mr-[10px] ml-[160px] text-justify">
-            <h1 class="text-[100px]">Utter Nonsense</h1>
-            <p class="indent-10">
-                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sequi eius adipisci et tempore, ratione soluta
-                iusto. Qui neque consectetur quisquam veniam perferendis mollitia dolorum dolorem id, minima nihil
-                atque. Totam minima eaque pariatur vel veniam fugiat, ex laudantium nam at impedit cum magni voluptas
-                animi cumque velit perferendis? Beatae culpa unde fuga doloremque cumque, rem deleniti sapiente eaque
-                numquam sint suscipit quod officiis quidem non enim aut, officia ut mollitia velit quaerat commodi
-                impedit explicabo magnam! Doloribus magnam accusamus expedita, recusandae provident a ad minus molestias
-                error id fugiat, iste veniam fuga tempora ut, quis ratione. Fuga, velit ullam quisquam quaerat facere
-                saepe numquam nisi pariatur voluptates optio, ad aperiam in voluptas unde placeat officia nobis,
-                deleniti maiores perferendis ipsum iure possimus reprehenderit? Itaque voluptatibus, reprehenderit,
-                maiores tempore error repellat dignissimos esse voluptates ipsa saepe mollitia quas illum excepturi
-                perferendis facilis ad. Minima voluptate unde, eum praesentium adipisci saepe placeat sint pariatur esse
-                commodi excepturi voluptatum, dolorem reiciendis, quos dolorum harum? Quasi modi aut quibusdam culpa
-                quos nihil veritatis unde, quas alias beatae porro quam illum fugit dolores ullam vitae. Quibusdam, fuga
-                aut! Consequatur, ut! Non fuga, iure quia maiores modi reprehenderit voluptates minima iusto. Est
-                dolorum, asperiores eius vero, pariatur numquam dolorem officiis id nam cumque neque veniam nisi, unde
-                sunt amet omnis magnam tempore quidem ex quam ratione. Explicabo reiciendis ullam incidunt tenetur,
-                dolorem, blanditiis consectetur pariatur voluptate laudantium repudiandae cum nesciunt temporibus a eum.
-                Unde illo quibusdam, libero nesciunt sit, dolorem perspiciatis voluptatibus facere corporis sapiente
-                aperiam ad dignissimos autem dolores. Perferendis dicta iusto aperiam odit, eligendi veniam hic dolores
-                recusandae voluptatem aliquam deserunt eius, ratione repudiandae. Vitae minima ut fugiat unde, nostrum
-                quam nisi laborum impedit a pariatur accusantium saepe ad, placeat totam harum. Distinctio culpa quos
-                voluptatem illo soluta voluptatibus quaerat accusamus placeat aliquam magni quis magnam suscipit
-                inventore sit quod adipisci, asperiores eum explicabo nihil nostrum odio nesciunt. Nobis quam impedit
-                beatae in mollitia ipsa sit ab fugit ratione deleniti maxime nisi, minus tempore laborum quaerat, animi
-                quibusdam corrupti ea cumque excepturi corporis. Numquam neque dicta veritatis quidem in quod laboriosam
-                nostrum eos vero! Excepturi ullam nisi tempora? Quibusdam, nam? Neque consectetur commodi repellat nobis
-                suscipit quo, mollitia, iure harum cupiditate a sed sunt quam ipsum officia nostrum placeat tenetur
-                saepe ipsam! Numquam facere amet delectus quasi totam beatae aliquid. Accusamus quo suscipit nostrum,
-                possimus corporis id sapiente repellat quam similique commodi consequuntur deleniti laborum distinctio
-                et dicta vitae optio perspiciatis totam eum consectetur molestiae quasi ab tempore voluptatum. Voluptas
-                amet soluta suscipit iusto repellendus perferendis? Aut dolorem quam debitis laborum culpa commodi modi
-                tenetur corporis, quia, cupiditate incidunt minima labore obcaecati dolore. Magni aliquam quos eaque
-                inventore rem officiis accusantium, quibusdam praesentium consequuntur, doloremque numquam cupiditate
-                soluta, esse ipsam veritatis vitae. Pariatur enim iusto odit aperiam, sunt, laborum veniam qui aliquam
-                dicta obcaecati, nihil omnis? Tempora mollitia laboriosam sequi alias harum fuga nobis? Cumque amet
-                itaque fugit necessitatibus maxime autem doloribus vel, veritatis nostrum dolorem modi laborum ab
-                laboriosam reiciendis non magni repudiandae quasi illo pariatur! Magnam voluptas labore quisquam
-                delectus commodi aspernatur voluptate obcaecati, ut non quo officiis esse ullam consectetur dignissimos
-                quas? Veritatis modi tempore aliquam error, aperiam autem voluptatem excepturi natus molestiae sit vitae
-                omnis magnam corporis beatae illum velit, quidem doloribus maiores? Recusandae accusantium voluptatibus
-                iste similique dolores, modi ratione delectus placeat facilis mollitia voluptate minus eius repellat
-                itaque, quae fugiat perferendis ipsa cupiditate quam corporis harum? Sunt fugit totam delectus.
-                Consectetur suscipit deleniti cupiditate perferendis odio debitis expedita maiores iste quas blanditiis
-                unde magni dolore iure quae consequatur hic eaque sint exercitationem, architecto, culpa magnam quaerat
-                distinctio dicta? Tempora optio iste sequi error magni mollitia neque. Fuga, et! Ducimus explicabo
-                nesciunt rem error quia magni voluptatum maiores minima quisquam sapiente tempore, nostrum iusto?
-                Officia quam facilis ea? Molestias iusto maxime ex vero officia numquam quisquam quo ratione dolores
-                voluptatem, quod, aut sunt in. Sapiente sunt nostrum esse, veniam eligendi impedit saepe reiciendis
-                molestias nesciunt illum! Veritatis hic aut corporis ipsum iste cumque temporibus magni voluptates a
-                molestias praesentium eligendi, delectus enim nulla voluptate esse amet velit accusamus beatae
-                necessitatibus vero veniam? At architecto nesciunt eius quae vitae distinctio perspiciatis illo voluptas
-                ipsum. Eveniet voluptatibus, id blanditiis unde mollitia minus earum voluptates accusamus est nostrum
-                aliquid fugit sunt porro doloremque aperiam recusandae vel eos! Optio recusandae explicabo perferendis
-                error consequatur ex mollitia blanditiis laborum dolorem facilis, eum cupiditate possimus nam! Harum, a.
-                Harum, sed mollitia inventore eaque doloribus veniam perspiciatis, nesciunt voluptates odit, cumque ea
-                sit autem! Veniam consequuntur deserunt reiciendis. Corporis voluptates laboriosam libero harum
-                doloremque quidem officia eos, ab laborum facere quia nam consectetur ex tempore omnis tenetur unde
-                quaerat, enim repellat nemo nobis error deleniti earum! Eius, adipisci cupiditate aspernatur incidunt
-                pariatur reiciendis reprehenderit ullam quae ipsa voluptas ea ipsum omnis eveniet esse id possimus
-                beatae explicabo quaerat expedita sed quis. Dignissimos quis inventore blanditiis facilis a! Architecto
-                repudiandae voluptate atque fugit cupiditate vel consectetur nostrum vitae, neque odio sapiente maiores
-                tempora voluptates libero nesciunt id non explicabo perferendis doloribus necessitatibus sit enim quos.
-                Quia sapiente est quae cupiditate beatae, enim facilis at, repellat blanditiis quis illo voluptatem
-                ducimus illum quasi sequi veniam animi quo inventore, consequatur minus odio? Sit qui totam, dolor et
-                explicabo incidunt mollitia. Soluta, harum saepe! Non officiis porro natus alias illo magnam odit, neque
-                est doloribus praesentium aliquam sapiente at, exercitationem tempore itaque blanditiis rerum placeat
-                cupiditate. Eaque voluptatem enim facere numquam porro expedita asperiores eius voluptates vitae, odio
-                eum ducimus, sequi placeat sapiente repellat facilis in assumenda dignissimos minima minus eos? Sit
-                optio esse blanditiis porro voluptatibus ipsum, neque quo reprehenderit deserunt praesentium
-                accusantium! Quos error et hic ad doloribus nam fugit quaerat repellendus porro laudantium, cumque ut
-                dolor incidunt pariatur labore excepturi sapiente non. Deserunt, repellat sequi? Fugit nulla veritatis
-                voluptatum, dolore, autem, porro nemo similique odit tempora quibusdam quisquam. Necessitatibus, magnam?
-                Commodi est, exercitationem molestiae esse animi nulla possimus ea eligendi sed sunt quos consectetur,
-                explicabo sapiente, officiis consequuntur necessitatibus reiciendis accusamus. Excepturi minus
-                blanditiis nam ratione consequuntur!
-            </p>
+        <div class="hugeimg flex flex-col items-center ml-[150px]">
+            <img class=" h-[700px]"
+                src="https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2021/12/19BR_BattlePass_Social_Social.jpg?resize=1920%2C1080&ssl=1"
+                alt="">
+        </div>
 
-            <ul class="list-disc ml-10 mt-4 mb-4">
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
-                <li>ZEEP GLORP ? GLEEB MORP GRALP LACKA BRAX CHUGF HRAGZ MEUGBAH</li>
+        <div class="bruhtext mr-[10px] ml-[160px] text-justify">
+            <h1 class="text-[45px] text-left border-b-2 border-[#152856] font-medium mb-[10px]">Why Fortnite Wins</h1>
+            <div class="funiimg flex flex-row-reverse items-start">
+                <img class="h-[200px] shadow-xl" src="https://media.tenor.com/cuwj6gJLLW8AAAAd/victory-royale-winner.gif" alt="">
+                <p class="indent-10 mr-[10px]">
+                    Fortnite is a free to play battle royale game published by Epic Games. Since it's release in 2017, the
+                    game
+                    has since
+                    gained massive popularity.
+                    Fortnite has been domminating the battle royale market for quiet a while now, but why ? why is Fortnite
+                    so
+                    succesful compared to it's competitor
+                    like PUBG or DAYZ, how does Fortnite thrive while PUBG and the others failed, is this all just part of a
+                    really complicated plot by the shadow government ?
+                    is freewill even real ? To find the answer to these burning question we have to go back int time, back
+                    to
+                    the dark ages of battle royales.
+                </p>
+            </div>
+
+            <br>
+            <ul class="list-none">
+                <li>
+                    <h1 class="text-[25px] font-medium underline">Backstory</h1>
+                    <div class="funiimg flex items-start">
+                        <img class="h-[200px] mr-[10px] shadow-xl"
+                            src="http://img0.joyreactor.com/pics/post/games-funny-gif-arma-3-1043794.gif" alt="">
+                        <p class="indent-[10px]">
+                            The year is 2017, the battle royale genre purely consist of games that are so low in quality
+                            that
+                            they were almost unplayable. Games such as h1z1 and Ark are some of the example. Yet despite all
+                            of the game's problems, the game still manage to pull morbillions of players. This proves that
+                            if
+                            someone were to make a batlle royale game and didn't completely mess it up, they could probably
+                            get
+                            alot of money. And with that we get PUBG.
+                        </p>
+                    </div>
+
+                </li>
+                <br>
+                <li>
+                    <h1 class="text-[25px] font-medium underline">PUBG</h1>
+                    <div class="letext flex flex-row-reverse items-start ">
+                        <img class="h-[200px] shadow-xl" src="https://thumbs.gfycat.com/BiodegradableSkeletalCottontail.webp" alt="">
+                        <p class="indent-[10px] mr-[10px]">
+                            PUBG emerges, the sale skyrocketed, and before you know it people spends up to $2000 dollars to
+                            buy digital drips. So, what did PUBG do that other games didn't ? nothing.
+                            turns out it did exactly what the previous games did, only slightly better. And fortunately
+                            for Brendan Green, that's just good enough to be deemed acceptable for the average gamer. Well
+                            let's see what PUBG got right and what they didn't.
+                        </p>
+                    </div>
+                    <ul class="ml-[20px]">
+                        <li>
+                            <h1 class="text-[15px] font-medium underline">Visual</h1>
+                            <div class="moretext flex items-center">
+                                <img class="h-[100px] mr-[10px] shadow-xl" src="https://i.ytimg.com/vi/u5R0H_pysFQ/maxresdefault.jpg" alt="">
+                                <p class="indent-10">
+                                    Was PUBG nice to look at ? not really. But considering how other games looks
+                                    at the time, you couldn't really complain. Besides the game was labelled
+                                    early access, so i'm not even legally allowed to criticize it for looking bland.
+                                </p>
+                            </div>
+                        </li>
+                        <br>
+                        <li>
+                            <h1 class="text-[15px] font-medium underline">Gameplay</h1>
+                            <div class="moretext flex flex-row-reverse items-center">
+                                <img class="h-[100px] ml-[10px] shadow-xl" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_16:9,f_auto,q_auto,g_auto/shape%2Fcover%2Fsport%2Fpubg-06-89a3f1c559cf23f92d1ff0ffc3cbf7f2.jpg" alt="">
+                                <p class="indent-10">
+                                    As we all know PUBG is a battle royale. Meaning, you can do anything you want, as long
+                                    as you stay in the circle. For example, sitting completely stil with a shotgun, laying
+                                    on a hill, or drive around like a maniac. When you load up a game of PUBG you find
+                                    yourself surrounded by 100 players. But what happened if you combine an unstable game
+                                    engine with 100 players ? well, you get numerous bugs and glitches that just outright 
+                                    break the game. But after enough people dies the game runs just fine.
+                                </p>
+                            </div>
+                        </li>
+                        <br>
+                        <li>
+                            <h1 class="text-[15px] font-medium underline">Ballistic & Gunplay</h1>
+                            <div class="moretext flex items-center">
+                                <img class="h-[100px] mr-[10px] shadow-xl" src="https://media.dragonblogger.com/wp-content/uploads/2022/02/15001349/Picture2-1536x864.png" alt="">
+                                <p class="indent-10">
+                                    In terms of ballistics and gunplay, PUBG went for something more realistic, except air isn't real.
+                                    And the only thing affecting bullet trajectory is gravity. So forget everything you thought you know
+                                    about assault rifles, because they now have an effective range of whatever. Basically if you put a 15x
+                                    scope on a m249 machine gun and them go prone to apply the bipod, you now have a fully automatic, low
+                                    recoil sniper with 100 rounds per magazine.
+                                </p>
+                            </div>
+                        </li>
+                        <br>
+                        <li>
+                            <h1 class="text-[15px] font-medium underline">Audio</h1>
+                            <div class="moretext flex flex-row-reverse items-center">
+                                <img class="h-[100px] ml-[10px] shadow-xl" src="https://quantumshifting.files.wordpress.com/2012/08/red-pill-blue-pill.jpg" alt="">
+                                <p class="indent-10">
+                                    We've reached the point of no return and you now need to make a choice. You take the blue pill, remain
+                                    ignorant of your surroundings and get sent back to lobby because you couldn't hear the guy sneaking up 
+                                    behind you. You take the red pill, enhance your senses and become one with your surroundings, so that no
+                                    one may get close without you knowing it. However, if you choose the red pill, you will soon come to realize 
+                                    that there is a price that you have to pay. Your hearing and tinnitus by the age of 20. The game also had proximty
+                                    voice chat, but Blue Hole disabled it in lobbies when they found out that it was only used to mic spamming streamers
+                                    saying the n-word, and as a marketing tool for hordes of chinese bots.
+                                </p>
+                            </div>
+                        </li>
+                    </ul>
+                </li>
+                <br>
+                <li>
+                    <h1 class="text-[25px] font-medium underline">PUBG's Conclusion</h1>
+                    <div class="letext flex flex-row-reverse items-start border-b-2 border-[#152856] pb-[15px]">
+                        <div class="flex flex-col items-center">
+                            <p class="indent-[10px] mr-[10px]">
+                            But in the end, PUBG was fun and i had alot of fun playing it and to be honest, i don't even notice most of
+                            these issues until they were drastically improved in you guessed it.
+                        </p>
+                        <div class="flex items-center">
+                            <img class="h-[170px] m-[10px]" src="https://media.tenor.com/F1gWP60UTpYAAAAS/fortnite-meme.gif" alt="">
+                            <h1 class="text-[50px]">F O R T N I T E</h1>
+                            <img class="h-[170px] m-[10px]" src="https://media.tenor.com/dEjdaRZExUQAAAAd/fortnite-dance.gif" alt="">
+                        </div>
+                        
+                        </div>
+                        
+                    </div>
+                </li>
             </ul>
 
-            <center>
-                <div class="video 10 p-10">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/Y_QNXVPVAY0"
-                        title="YouTube video player" frameborder="0"
-                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                        allowfullscreen></iframe>
+            <div class="cards flex flex-col items-center">
+                <Kard :image="'https://www.youtube.com/embed/UnmBHkMta-4'" />
+                <div class="texd m-[10px] border-b-2 border-solid border-[#152856] w-[90%] text-center">他のクリエイター</div>
+                <div class="flex items-center">
+                    <a href="https://www.youtube.com/@SsethTzeentach">
+                        <MoreGarbage
+                        :title="'SsethTzentach'"
+                        :image="'https://scontent.fcgk8-2.fna.fbcdn.net/v/t39.30808-1/297893906_602139911272037_100711993481514336_n.jpg?stp=dst-jpg_p200x200&_nc_cat=107&ccb=1-7&_nc_sid=c6021c&_nc_ohc=jDLXEuh7NPUAX-WWTVy&_nc_ht=scontent.fcgk8-2.fna&oh=00_AfBMud1_eDiHOOlWq2wEADjIiXCz2JS48x8UYqX9cAILWw&oe=6467D3C3'" />
+                    </a>
+                    <a href="https://www.youtube.com/@AlbinoVEVO">
+                        <MoreGarbage
+                        :title ="'AlbinoVEVO'"
+                        :image="'https://yt3.googleusercontent.com/ytc/AGIKgqMRhc2T1qMdPElVV4VA0R7nZTDaI53-6OA9nDPreg=s176-c-k-c0x00ffffff-no-rj'" />
+                    </a>
+                    <a href="https://www.youtube.com/@Max0r">
+                        <MoreGarbage
+                        :title="'Max0r'"
+                        :image="'https://yt3.googleusercontent.com/ytc/AGIKgqPi0LioT8O_Xx4xs6dJPhm6CXWYaqBy8JVJvHdbQQ=s176-c-k-c0x00ffffff-no-rj'" />
+                    </a>
+                    <a href="https://www.youtube.com/@Huggbees">
+                        <MoreGarbage
+                        :title="'Huggbees'"
+                        :image="'https://yt3.googleusercontent.com/ytc/AGIKgqMh5Lv0jAxa48F0jcvqw9oAfvj00WywPgGCeWS4eg=s176-c-k-c0x00ffffff-no-rj'" />
+                    </a>
                 </div>
+            </div>
+            <center>
+
+
+            </center>
+            <center>
+
             </center>
         </div>
     </div>
