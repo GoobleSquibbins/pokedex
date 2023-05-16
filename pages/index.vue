@@ -132,7 +132,7 @@
                             <h1 class="text-[50px]">F O R T N I T E</h1>
                             <img class="h-[170px] m-[10px]" src="https://media.tenor.com/dEjdaRZExUQAAAAd/fortnite-dance.gif" alt="">
                         </div>
-                        
+                        <!-- ddd -->
                         </div>
                         
                     </div>
