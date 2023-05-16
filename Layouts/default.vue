@@ -28,7 +28,7 @@
         <footer class="ml-[150px] text-center text-slate-50 font-medium mt-full">
             <div class="footer p-1 bg-[#162444]">
                 <p>
-                   Copyright 2023 © Ananda Arsya Sabili 
+                   Copyright 2023 © Ananda Arsya 
                 </p>
             </div>
         </footer>
