@@ -1,28 +1,12 @@
 <template>
     <div>
         <h1 class="text-[5rem] font-medium text-center">Pokédex</h1>
-        <div class="w-full flex flex-col items-center">
-            <table class="rounded-lg bg-[#002439] text-[#e4eff0] w-[90%]">
-                <tr class="border-b-[2px] border-[#4e7988] font-medium">
-                    <td>ID</td>
-                    <td>Item Name</td>
-                    <td>Item Description</td>
-                    <td>Item Stock</td>
-                </tr>
-                <tr v-for="item in data" :key="item.id" class="border-b-[1px] border-[#375a66]">
-                    <td>{{ item.id }}</td>
-                    <td>{{ item.name }}</td>
-                    <td>{{ item.description }}</td>
-                    <td>{{ item.qty }}</td>
-                </tr>
-            </table>
-        </div>
-        <br> -->
         <h3 class="text-[3rem] border-b-[1px] border-black m-[20px] text-center">Gen 5</h3>
 
         <div class=" grid grid-cols-4 gap-4">
             <div class="flex flex-col items-center" v-for="item in data" :key="item.entry">
-                <div class="m-[10px] w-[250px] h-[350px] bg-white rounded-lg drop-shadow-2xl border-[1px] border-black flex flex-col items-center p-[5px]">
+                <div
+                    class="m-[10px] w-[250px] h-[350px] bg-white rounded-lg drop-shadow-2xl border-[1px] border-black flex flex-col items-center p-[5px]">
                     <img :src="item.sprite">
                     <h1 class="text-[20px] font-medium text-center mt-[5px]">{{ item.name }}</h1>
                     <p>#{{ item.entry }}</p>
@@ -54,11 +38,11 @@
             </div>
 
         </div>
-        <!-- <div v-for="item in data" :key="id" class="flex flex-col items-center">
-            <p>{{ item.name }}</p>
-            <p>{{ item.description }}</p>
-            <p>{{ item.qty }}</p>
-        </div> -->
+        <footer>
+            <div class="text-center bg-gray-400 font-medium p-[10px] mt-[50px]">
+                <p>Copyright Arsya MMXXIII</p>
+            </div>
+        </footer>
     </div>
 </template>
 
