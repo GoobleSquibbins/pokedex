@@ -1,7 +1,6 @@
 <template>
     <div>
         <h1 class="text-[5rem] font-medium text-center">Pokédex</h1>
-        <!-- <br>
         <div class="w-full flex flex-col items-center">
             <table class="rounded-lg bg-[#002439] text-[#e4eff0] w-[90%]">
                 <tr class="border-b-[2px] border-[#4e7988] font-medium">
