@@ -1,77 +1,86 @@
 <template>
     <div>
-        <h1 class="text-[50px] text-center">Diskon</h1>
-        <div class="main flex flex-col items-center w-full">
-            <div class="daform flex flex-col items-center justify-center m-auto w-[100%]">
-                <form @submit.prevent="idkmanplswork">
-                    <label class=" font-medium ">Total Pembelian</label>
-                    <br>
-                    <input type="number" required v-model="totalHarga" class="rounded border-[1px] border-black w-[200px]">
-                    <br>
-                    <br>
-                    <button class="border-[1px] border-black p-[2px] w-[200px] rounded">Submit</button>
-                </form>
-            </div>
-            <div class="out flex flex-col items-start mt-[10px]" v-if="x == ''">
-                <table>
-                    <tr>
-                        <td>Total Pembelian</td>
-                        <td> : </td>
-                        <td>{{ totalHarga }}</td>
-                    </tr>
-                    <tr>
-                        <td>Diskon</td>
-                        <td> : </td>
-                        <td>{{ diskon }}</td>
-                    </tr>
-                    <tr>
-                        <td>Harga Final</td>
-                        <td> : </td>
-                        <td>{{ abisKenaDiskon }}</td>
-                    </tr>
-                </table>
-            </div>
-            <div class="out2">
-                <p>{{ x }}</p>
-            </div>
+        <h1 class="text-[5rem] font-medium text-center">Pokédex</h1>
+        <!-- <br>
+        <div class="w-full flex flex-col items-center">
+            <table class="rounded-lg bg-[#002439] text-[#e4eff0] w-[90%]">
+                <tr class="border-b-[2px] border-[#4e7988] font-medium">
+                    <td>ID</td>
+                    <td>Item Name</td>
+                    <td>Item Description</td>
+                    <td>Item Stock</td>
+                </tr>
+                <tr v-for="item in data" :key="item.id" class="border-b-[1px] border-[#375a66]">
+                    <td>{{ item.id }}</td>
+                    <td>{{ item.name }}</td>
+                    <td>{{ item.description }}</td>
+                    <td>{{ item.qty }}</td>
+                </tr>
+            </table>
         </div>
+        <br> -->
+        <h3 class="text-[3rem] border-b-[1px] border-black m-[20px] text-center">Gen 5</h3>
+
+        <div class=" grid grid-cols-4 gap-4">
+            <div class="flex flex-col items-center" v-for="item in data" :key="item.entry">
+                <div class="m-[10px] w-[250px] h-[350px] bg-white rounded-lg drop-shadow-2xl border-[1px] border-black flex flex-col items-center p-[5px]">
+                    <img :src="item.sprite">
+                    <h1 class="text-[20px] font-medium text-center mt-[5px]">{{ item.name }}</h1>
+                    <p>#{{ item.entry }}</p>
+                    <div class="flex items-center">
+                        <img class="mr-[3px]" :src="item.type" alt="">
+                        <img :src="item.type2" alt="">
+                    </div>
+                    <p class="text-[13px] text-center mt-[7px]">{{ item.desc }}</p>
+                    <p class="border-b-[1px] border-black">Base Stats</p>
+                    <table class="text-[12px]">
+                        <tr class="font-medium">
+                            <td>Hp</td>
+                            <td>Att</td>
+                            <td>Def</td>
+                            <td>S.Att</td>
+                            <td>S.Def</td>
+                            <td>Spd</td>
+                        </tr>
+                        <tr>
+                            <td>{{ item.baseStats[0].hp }}</td>
+                            <td>{{ item.baseStats[0].att }}</td>
+                            <td>{{ item.baseStats[0].def }}</td>
+                            <td>{{ item.baseStats[0].spa }}</td>
+                            <td>{{ item.baseStats[0].spdf }}</td>
+                            <td>{{ item.baseStats[0].spd }}</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+
+        </div>
+        <!-- <div v-for="item in data" :key="id" class="flex flex-col items-center">
+            <p>{{ item.name }}</p>
+            <p>{{ item.description }}</p>
+            <p>{{ item.qty }}</p>
+        </div> -->
     </div>
 </template>
 
 <script>
+import bunchOfData from '/JASOOONN/bunchOfData.json'
 export default {
     data() {
         return {
-            totalHarga: '',
-            abisKenaDiskon: '',
-            diskon: '',
-            x: '',
-        }
-    },
-    methods: {
-        idkmanplswork() {
-            if (this.totalHarga >= 100000) {
-                this.diskon = '10%'
-                this.abisKenaDiskon = this.totalHarga - (this.totalHarga * 0.1)
-            }
-
-            if (this.totalHarga >= 50000 && this.totalHarga < 100000) {
-                this.diskon = '5%'
-                this.abisKenaDiskon = this.totalHarga - (this.totalHarga * 0.05)
-            }
-
-            if (this.totalHarga < 50000) {
-                this.diskon = 'Tidak ada diskon'
-                this.abisKenaDiskon = this.totalHarga
-            }
-
-            if (this.totalHarga < 0) {
-                this.x = 'Invalid Input'
-            }
-
+            data: bunchOfData.pokemon
         }
     }
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style scoped>
+td {
+    padding: 5px;
+    text-align: center;
+}
+
+tr:last-child {
+    border: 0;
+}
+</style>
