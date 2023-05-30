@@ -1,142 +1,795 @@
 {
     "pokemon": [
         {
-            "entry" : 495,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/495.png",
-            "name" : "Snivy",
-            "type" : "https://www.serebii.net/pokedex-dp/type/grass.gif",
-            "desc" : "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",  
-            "baseStats" : [{
-                "hp": 45,
-                "att": 45,
-                "def": 55,
-                "spa": 45,
-                "spdf": 55,
-                "spd": 63
-            }]
+            "entry": 495,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/495.png",
+            "detailedSprite": "https://img.pokemondb.net/artwork/avif/snivy.avif",
+            "name": "Snivy",
+            "type": "https://www.serebii.net/pokedex-dp/type/grass.gif",
+            "desc": "It is very intelligent and calm. Being exposed to lots of sunlight makes its movements swifter.",
+            "flavourText": "Snivy is a Grass type Pokémon introduced in Generation 5. It is known as the 'Grass Snake Pokémon'.",
+            "baseStats": [
+                {
+                    "hp": 45,
+                    "att": 45,
+                    "def": 55,
+                    "spa": 45,
+                    "spdf": 55,
+                    "spd": 63,
+                    "total":308
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 495,
+                            "type": "https://www.serebii.net/pokedex-dp/type/grass.gif",
+                            "species": "Grass Snake Pokémon",
+                            "height": "0.6 m",
+                            "weight": "8.1 Kg",
+                            "abilities": [
+                                "Overgrow",
+                                "Contrary (hidden ability)"
+                            ],
+                            "localNo": 1
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"1 Speed",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 62,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field, Grass",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":2,
+                            "water":"1/2",
+                            "electric":"1/2",
+                            "grass":"1/2",
+                            "ice":2,
+                            "fighting":0,
+                            "poison":2,
+                            "ground":"1/2",
+                            "flying":2,
+                            "psychic":0,
+                            "bug":2,
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":0,
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Snivy", "Servine", "Serperior"],
+                            "evoDex":[495, 496, 497],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/snivy.avif",
+                            "https://img.pokemondb.net/artwork/avif/servine.avif",
+                            "https://img.pokemondb.net/artwork/avif/serperior.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 496,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/496.png",
-            "name" : "Servine",
-            "type" : "https://www.serebii.net/pokedex-dp/type/grass.gif",
-            "desc" : "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",  
-            "baseStats" : [{
-                "hp": 60,
-                "att": 60,
-                "def": 75,
-                "spa": 60,
-                "spdf": 75,
-                "spd": 83
-            }]
+            "entry": 496,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/496.png",
+            "detailedSprite": "https://img.pokemondb.net/artwork/avif/servine.avif",
+            "name": "Servine",
+            "type": "https://www.serebii.net/pokedex-dp/type/grass.gif",
+            "desc": "It moves along the ground as if sliding. Its swift movements befuddle its foes, and it then attacks with a vine whip.",
+            "flavourText":"Servine is a Grass type Pokémon introduced in Generation 5. It is known as the 'Grass Snake Pokémon'.",
+            "baseStats": [
+                {
+                    "hp": 60,
+                    "att": 60,
+                    "def": 75,
+                    "spa": 60,
+                    "spdf": 75,
+                    "spd": 83,
+                    "total": 413
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 496,
+                            "type": "https://www.serebii.net/pokedex-dp/type/grass.gif",
+                            "species": "Grass Snake Pokémon",
+                            "height": "0.8 m",
+                            "weight": "16.0 Kg",
+                            "abilities": [
+                                "Overgrow",
+                                "Contrary (hidden ability)"
+                            ],
+                            "localNo": 2
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"2 Speed",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 145,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field, Grass",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":2,
+                            "water":"1/2",
+                            "electric":"1/2",
+                            "grass":"1/2",
+                            "ice":2,
+                            "fighting":0,
+                            "poison":2,
+                            "ground":"1/2",
+                            "flying":2,
+                            "psychic":0,
+                            "bug":2,
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":0,
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Snivy", "Servine", "Serperior"],
+                            "evoDex":[495, 496, 497],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/snivy.avif",
+                            "https://img.pokemondb.net/artwork/avif/servine.avif",
+                            "https://img.pokemondb.net/artwork/avif/serperior.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 497,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/497.png",
-            "name" : "Serperior",
-            "type" : "https://www.serebii.net/pokedex-dp/type/grass.gif",
-            "desc" : "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",  
-            "baseStats" : [{
-                "hp": 75,
-                "att": 75,
-                "def": 95,
-                "spa": 75,
-                "spdf": 95,
-                "spd": 113
-            }]
+            "entry": 497,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/497.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/serperior.avif",
+            "name": "Serperior",
+            "type": "https://www.serebii.net/pokedex-dp/type/grass.gif",
+            "desc": "It can stop its opponents' movements with just a glare. It takes in solar energy and boosts it internally.",
+            "flavourText":"Serperior is a Grass type Pokémon introduced in Generation 5. It is known as the 'Regal Pokémon'.",
+            "baseStats": [
+                {
+                    "hp": 75,
+                    "att": 75,
+                    "def": 95,
+                    "spa": 75,
+                    "spdf": 95,
+                    "spd": 113,
+                    "total": 528
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 497,
+                            "type": "https://www.serebii.net/pokedex-dp/type/grass.gif",
+                            "species": "Regal Pokémon",
+                            "height": "3.3 m",
+                            "weight": "63.0 Kg",
+                            "abilities": [
+                                "Overgrow",
+                                "Contrary (hidden ability)"
+                            ],
+                            "localNo": 3
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"3 Speed",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 238,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field, Grass",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":2,
+                            "water":"1/2",
+                            "electric":"1/2",
+                            "grass":"1/2",
+                            "ice":2,
+                            "fighting":0,
+                            "poison":2,
+                            "ground":"1/2",
+                            "flying":2,
+                            "psychic":0,
+                            "bug":2,
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":0,
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Snivy", "Servine", "Serperior"],
+                            "evoDex":[495, 496, 497],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/snivy.avif",
+                            "https://img.pokemondb.net/artwork/avif/servine.avif",
+                            "https://img.pokemondb.net/artwork/avif/serperior.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 498,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/498.png",
-            "name" : "Tepig",
-            "type" : "https://www.serebii.net/pokedex-dp/type/fire.gif",
-            "desc" : "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",  
-            "baseStats" : [{
-                "hp": 65,
-                "att": 63,
-                "def": 45,
-                "spa": 45,
-                "spdf": 45,
-                "spd": 45
-            }]
+            "entry": 498,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/498.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/tepig.avif",
+            "name": "Tepig",
+            "type": "https://www.serebii.net/pokedex-dp/type/fire.gif",
+            "desc": "It can deftly dodge its foe's attacks while shooting fireballs from its nose. It roasts berries before it eats them.",
+            "flavourText":"Tepig is a Fire type Pokémon introduced in Generation 5. It is known as the Fire Pig Pokémon.",
+            "baseStats": [
+                {
+                    "hp": 65,
+                    "att": 63,
+                    "def": 45,
+                    "spa": 45,
+                    "spdf": 45,
+                    "spd": 45
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 495,
+                            "type": "https://www.serebii.net/pokedex-dp/type/fire.gif",
+                            "species": "Fire Pig Pokémon",
+                            "height": "0.5 m",
+                            "weight": "9.9 Kg",
+                            "abilities": [
+                                "Blaze",
+                                "Thick Fat (hidden ability)"
+                            ],
+                            "localNo": 4
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"1 Hp",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 62,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":"1/2",
+                            "water":2,
+                            "electric":0,
+                            "grass":"1/2",
+                            "ice":"1/2",
+                            "fighting":0,
+                            "poison":0,
+                            "ground":2,
+                            "flying":0,
+                            "psychic":0,
+                            "bug":"1/2",
+                            "rock":2,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":"1/2",
+                            "fairy":"1/2"
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Tepig", "Pignite", "Emboar"],
+                            "evoDex":[498, 499, 500],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/tepig.avif",
+                            "https://img.pokemondb.net/artwork/avif/pignite.avif",
+                            "https://img.pokemondb.net/artwork/avif/emboar.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 499,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/499.png",
-            "name" : "Pignite",
-            "type" : "https://www.serebii.net/pokedex-dp/type/fire.gif",
-            "type2" : "https://www.serebii.net/pokedex-dp/type/fighting.gif",
-            "desc" : "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",  
-            "baseStats" : [{
-                "hp": 90,
-                "att": 93,
-                "def": 55,
-                "spa": 70,
-                "spdf": 55,
-                "spd": 55
-            }]
+            "entry": 499,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/499.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/pignite.avif",
+            "name": "Pignite",
+            "type": "https://www.serebii.net/pokedex-dp/type/fire.gif",
+            "type2": "https://www.serebii.net/pokedex-dp/type/fighting.gif",
+            "desc": "When its internal fire flares up, its movements grow sharper and faster. When in trouble, it emits smoke.",
+            "flavourText":"Pignite is a Fire/Fighting type Pokémon introduced in Generation 5. It is known as the Fire Pig Pokémon.",
+            "baseStats": [
+                {
+                    "hp": 90,
+                    "att": 93,
+                    "def": 55,
+                    "spa": 70,
+                    "spdf": 55,
+                    "spd": 55
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 499,
+                            "type": "https://www.serebii.net/pokedex-dp/type/fire.gif",
+                            "type2": "https://www.serebii.net/pokedex-dp/type/fighting.gif",
+                            "species": "Fire Pig Pokémon",
+                            "height": "1.0 m",
+                            "weight": "55.5 Kg",
+                            "abilities": [
+                                "Blaze",
+                                "Thick Fat (hidden ability)"
+                            ],
+                            "localNo": 5
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"2 Attack",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 146,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":"1/2",
+                            "water":2,
+                            "electric":0,
+                            "grass":"1/2",
+                            "ice":"1/2",
+                            "fighting":0,
+                            "poison":0,
+                            "ground":2,
+                            "flying":2,
+                            "psychic":2,
+                            "bug":"1/2",
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":"1/2",
+                            "steel":"1/2",
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Tepig", "Pignite", "Emboar"],
+                            "evoDex":[498, 499, 500],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/tepig.avif",
+                            "https://img.pokemondb.net/artwork/avif/pignite.avif",
+                            "https://img.pokemondb.net/artwork/avif/emboar.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 500,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/500.png",
-            "name" : "Emboar",
-            "type" : "https://www.serebii.net/pokedex-dp/type/fire.gif",
-            "type2" : "https://www.serebii.net/pokedex-dp/type/fighting.gif",
-            "desc" : "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",  
-            "baseStats" : [{
-                "hp": 110,
-                "att": 123,
-                "def": 65,
-                "spa": 100,
-                "spdf": 65,
-                "spd": 65
-            }]
+            "entry": 500,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/500.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/emboar.avif",
+            "name": "Emboar",
+            "type": "https://www.serebii.net/pokedex-dp/type/fire.gif",
+            "type2": "https://www.serebii.net/pokedex-dp/type/fighting.gif",
+            "desc": "It can throw a fire punch by setting its fists on fire with its fiery chin. It cares deeply about its friends.",
+            "flavourText":"Emboar is a Fire/Fighting type Pokémon introduced in Generation 5. It is known as the Mega Fire Pig Pokémon.",
+            "baseStats": [
+                {
+                    "hp": 110,
+                    "att": 123,
+                    "def": 65,
+                    "spa": 100,
+                    "spdf": 65,
+                    "spd": 65
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 500,
+                            "type": "https://www.serebii.net/pokedex-dp/type/fire.gif",
+                            "type2": "https://www.serebii.net/pokedex-dp/type/fighting.gif",
+                            "species": "Mega Fire Pig Pokémon",
+                            "height": "1.6 m",
+                            "weight": "150.0 Kg",
+                            "abilities": [
+                                "Blaze",
+                                "Reckless (hidden ability)"
+                            ],
+                            "localNo": 6
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"3 Attack",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 238,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":"1/2",
+                            "water":2,
+                            "electric":0,
+                            "grass":"1/2",
+                            "ice":"1/2",
+                            "fighting":0,
+                            "poison":0,
+                            "ground":2,
+                            "flying":2,
+                            "psychic":2,
+                            "bug":"1/2",
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":"1/2",
+                            "steel":"1/2",
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Tepig", "Pignite", "Emboar"],
+                            "evoDex":[498, 499, 500],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/tepig.avif",
+                            "https://img.pokemondb.net/artwork/avif/pignite.avif",
+                            "https://img.pokemondb.net/artwork/avif/emboar.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 501,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/501.png",
-            "name" : "Oshawott",
-            "type" : "https://www.serebii.net/pokedex-dp/type/water.gif",
-            "desc" : "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",  
-            "baseStats" : [{
-                "hp": 55,
-                "att": 55,
-                "def": 45,
-                "spa": 63,
-                "spdf": 45,
-                "spd": 45 
-            }]
+            "entry": 501,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/501.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/oshawott.avif",
+            "name": "Oshawott",
+            "type": "https://www.serebii.net/pokedex-dp/type/water.gif",
+            "desc": "It fights using the scalchop on its stomach. In response to an attack, it retaliates immediately by slashing.",
+            "flavourText":"Oshawott is a Water type Pokémon introduced in Generation 5. It is known as the 'Sea Otter Pokémon'.",
+            "baseStats": [
+                {
+                    "hp": 55,
+                    "att": 55,
+                    "def": 45,
+                    "spa": 63,
+                    "spdf": 45,
+                    "spd": 45,
+                    "total": 308
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 501,
+                            "type": "https://www.serebii.net/pokedex-dp/type/water.gif",
+                            "species": "Sea Otter Pokémon",
+                            "height": "0.5 m",
+                            "weight": "5.9 Kg",
+                            "abilities": [
+                                "Torrent",
+                                "Shell Armor (hidden ability)"
+                            ],
+                            "localNo": 7
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"1 Special Attack",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 62,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":"1/2",
+                            "water":"1/2",
+                            "electric":2,
+                            "grass":2,
+                            "ice":"1/2",
+                            "fighting":0,
+                            "poison":0,
+                            "ground":0,
+                            "flying":0,
+                            "psychic":0,
+                            "bug":0,
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":"1/2",
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Oshawott", "Dewott", "Samurott"],
+                            "evoDex":[501, 502, 503],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/oshawott.avif",
+                            "https://img.pokemondb.net/artwork/avif/dewott.avif",
+                            "https://img.pokemondb.net/artwork/avif/samurott.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 502,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/502.png",
-            "name" : "Dewott",
-            "type" : "https://www.serebii.net/pokedex-dp/type/water.gif",
-            "desc" : "Strict training is how it learns its flowing double-scalchop technique.",  
-            "baseStats" : [{
-                "hp": 75,
-                "att": 75,
-                "def": 60,
-                "spa": 83,
-                "spdf": 60,
-                "spd": 60 
-            }]
+            "entry": 502,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/502.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/dewott.avif",
+            "name": "Dewott",
+            "type": "https://www.serebii.net/pokedex-dp/type/water.gif",
+            "desc": "Strict training is how it learns its flowing double-scalchop technique.",
+            "flavourText":"Dewott is a Water type Pokémon introduced in Generation 5. It is known as the 'Discipline Pokémon'.",
+            "baseStats": [
+                {
+                    "hp": 75,
+                    "att": 75,
+                    "def": 60,
+                    "spa": 83,
+                    "spdf": 60,
+                    "spd": 60
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 502,
+                            "type": "https://www.serebii.net/pokedex-dp/type/water.gif",
+                            "species": "Discipline Pokémon",
+                            "height": "0.8 m",
+                            "weight": "24.5 Kg",
+                            "abilities": [
+                                "Torrent",
+                                "Shell Armor (hidden ability)"
+                            ],
+                            "localNo": 8
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"2 Special Attack",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 145,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":"1/2",
+                            "water":"1/2",
+                            "electric":2,
+                            "grass":2,
+                            "ice":"1/2",
+                            "fighting":0,
+                            "poison":0,
+                            "ground":0,
+                            "flying":0,
+                            "psychic":0,
+                            "bug":0,
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":"1/2",
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Oshawott", "Dewott", "Samurott"],
+                            "evoDex":[501, 502, 503],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/oshawott.avif",
+                            "https://img.pokemondb.net/artwork/avif/dewott.avif",
+                            "https://img.pokemondb.net/artwork/avif/samurott.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         },
         {
-            "entry" : 503,
-            "sprite" : "https://www.serebii.net/blackwhite/pokemon/503.png",
-            "name" : "Samurott",
-            "type" : "https://www.serebii.net/pokedex-dp/type/water.gif",
-            "desc" : "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",  
-            "baseStats" : [{
-                "hp": 95,
-                "att": 100,
-                "def": 85,
-                "spa": 108,
-                "spdf": 70,
-                "spd": 70 
-            }]
+            "entry": 503,
+            "sprite": "https://www.serebii.net/blackwhite/pokemon/503.png",
+            "detailedSprite":"https://img.pokemondb.net/artwork/avif/samurott.avif",
+            "name": "Samurott",
+            "type": "https://www.serebii.net/pokedex-dp/type/water.gif",
+            "desc": "One swing of the sword incorporated in its armor can fell an opponent. A simple glare from one of them quiets everybody.",
+            "flavourText":"Samurott is a Water type Pokémon introduced in Generation 5. It is known as the 'Formidable Pokémon'.",
+            "baseStats": [
+                {
+                    "hp": 95,
+                    "att": 100,
+                    "def": 85,
+                    "spa": 108,
+                    "spdf": 70,
+                    "spd": 70
+                }
+            ],
+            "detailStats": [
+                {
+                    "pokedexData": [
+                        {
+                            "natNo": 502,
+                            "type": "https://www.serebii.net/pokedex-dp/type/water.gif",
+                            "species": "Formidable Pokémon",
+                            "height": "1.5 m",
+                            "weight": "94.6 Kg",
+                            "abilities": [
+                                "Torrent",
+                                "Shell Armor (hidden ability)"
+                            ],
+                            "localNo": 9
+                        }
+                    ],
+                    "trainingData": [
+                        {
+                            "evYield":"3 Special Attack",
+                            "catchRate": 45,
+                            "baseFriendship": "50 (normal)",
+                            "baseExp": 264,
+                            "growthRate": "Medium Slow"
+                        }
+                    ],
+                    "breedingData":[
+                        {
+                            "eggGroup":"Field",
+                            "genderMale": "87.5%",
+                            "genderFemale":"12.5%",
+                            "eggCycle":"20 (4,884-5140 steps)"
+                        }
+                    ],
+                    "typeDefense":[
+                        {
+                            "normal":0,
+                            "fire":"1/2",
+                            "water":"1/2",
+                            "electric":2,
+                            "grass":2,
+                            "ice":"1/2",
+                            "fighting":0,
+                            "poison":0,
+                            "ground":0,
+                            "flying":0,
+                            "psychic":0,
+                            "bug":0,
+                            "rock":0,
+                            "ghost":0,
+                            "dragon":0,
+                            "dark":0,
+                            "steel":"1/2",
+                            "fairy":0
+                        }
+                    ],
+                    "evolutionData":[
+                        {
+                            "evoLine":["Oshawott", "Dewott", "Samurott"],
+                            "evoDex":[501, 502, 503],
+                            "evoSprite":["https://img.pokemondb.net/artwork/avif/oshawott.avif",
+                            "https://img.pokemondb.net/artwork/avif/dewott.avif",
+                            "https://img.pokemondb.net/artwork/avif/samurott.avif"],
+                            "levelEvo":[17, 36]
+                        }
+                    ]
+
+                }
+            ]
         }
     ]
 }
-
